@@ -11,6 +11,7 @@ import butterknife.OnClick;
 
 public class MainActivity extends AppCompatActivity {
 
+
     @InjectView(R.id.tv1)
     Button tv1;
     @InjectView(R.id.tv2)
