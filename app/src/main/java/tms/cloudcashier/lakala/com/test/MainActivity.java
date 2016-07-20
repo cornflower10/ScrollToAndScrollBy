@@ -38,12 +38,12 @@ public class MainActivity extends AppCompatActivity {
         /**
          * 控件内容移动
          */
-//        tv1.scrollTo(x, y);
-//        tv2.scrollBy(x, y);
+        tv1.scrollTo(x, y);
+        tv2.scrollBy(x, y);
         /**
          * viewGroup这种控件的移动
          */
-        rl.scrollTo(x, y);
-        r2.scrollBy(x, y);
+//        rl.scrollTo(x, y);
+//        r2.scrollBy(x, y);
     }
 }
